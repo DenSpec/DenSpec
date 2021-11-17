@@ -1,8 +1,9 @@
-## Hello humans, 
+## Hello !
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/KVVgWtScb37USleUB3/giphy-downsized.gif" width=400>
+  <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Featured.gif" width=400>
   <br><br>
   <samp>
-Hello ! I am front end and back end developer ; React, Redux, NodeJS (a Javascript guy)
+Je suis spécialisé dans le développement JavaScript (je traine très souvent avec la librairie React)
 
+À toi de découvrir de quoi je suis capable en explorant ici !
