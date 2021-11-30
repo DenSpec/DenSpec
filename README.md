@@ -6,12 +6,9 @@
   <samp>
 I am a front and back end developer.  I am comfortable with all languages ​​on the web side, but I love React.  I also use Firebase very often for my projects, more precisely Firestore (a gold mine!)
 
-## Donation
+## Donation~Support
 
-### Ethereum
+| Paypal | Bitcoin | Ethereum | 
+|-----------------|-----------------|:-------------| 
+| ``paypal.me/denspec`` | ```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4``` | ```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```   | 
 
-```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```
-
-### Bitcoin
-
-```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4```
