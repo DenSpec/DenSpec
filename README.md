@@ -15,6 +15,8 @@ RFR ➡️ React, Firebase, Redux
 
 ## Donation~Support
 
+<img src="donation.png">
+
 | Paypal | Bitcoin | Ethereum | 
 |-----------------|-----------------|:-------------| 
 | ``paypal.me/denspec`` | ```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4``` | ```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```   | 
