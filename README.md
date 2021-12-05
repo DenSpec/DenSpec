@@ -12,7 +12,6 @@ RFR ➡️ React, Firebase, Redux
 
 
 - [How to create a simple clone of Dev.To, StackOverflow whit RFR](https://dev.to/denspec/how-to-create-a-simple-clone-of-devto-stackoverflow-react-firebase-redux-1dm2)
-- [What's your biggest visionary idea in the web/app programming ?](https://dev.to/denspec/whats-your-biggest-visionary-idea-in-the-webapp-programming-but-you-dont-know-how-to-do-it-52hd)
 
 ## Donation~Support
 
