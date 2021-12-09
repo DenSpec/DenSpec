@@ -30,7 +30,7 @@ RFR ➡️ React, Firebase, Redux
 - [DevTo](https://dev.to/denspec) : ``denspec``
 - Discord : ``DenSpec#0510``
 
-## Donation~Support
+## 💲 RDonation~Support
 
 <img src="donation.png">
 
