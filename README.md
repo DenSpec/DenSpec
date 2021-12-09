@@ -10,7 +10,7 @@
 
 
 ### 🖥️ Web front & back-end developer. 
-### 💞 Love  React and Firebase.
+### Expert in React and Firebase
 
 </div>
 
@@ -30,7 +30,7 @@ RFR ➡️ React, Firebase, Redux
 - [DevTo](https://dev.to/denspec) : ``denspec``
 - Discord : ``DenSpec#0510``
 
-## 💲 RDonation~Support
+## 💲 Donation~Support
 
 <img src="donation.png">
 
