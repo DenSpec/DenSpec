@@ -22,7 +22,8 @@ RFR ➡️ React, Firebase, Redux
 
 ## 📝 My open source project
 
-- [Firecord](https://github.com/DenSpec/Firecord) : Discord clone in ``React, Firebase, Redux`` 
+- [Firecord](https://github.com/DenSpec/Firecord) : Discord clone in ``React, Firebase, Redux`` and containing full documentation
+
 
 ## 📨 Contact~Account 
 - [Twitter](twitter.com/DenSpec98) : ``@DenSpec98``
