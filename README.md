@@ -17,8 +17,8 @@
 ## 📃 List of my articles
 RFR ➡️ React, Firebase, Redux
 
-- [Create Trello clone whit R-F-R](https://dev.to/denspec/create-trello-clone-whit-react-firebase-redux-1ac5)
-- [How to create a simple clone of Dev.To, StackOverflow whit RFR](https://dev.to/denspec/how-to-create-a-simple-clone-of-devto-stackoverflow-react-firebase-redux-1dm2)
+- [How to make Trello system clone whit R-F-R](https://dev.to/denspec/create-trello-clone-whit-react-firebase-redux-1ac5)
+- [How to make a simple post and reply system with R-F-R](https://dev.to/denspec/how-to-create-a-simple-clone-of-devto-stackoverflow-react-firebase-redux-1dm2)
 
 ## 📝 My open source project
 
