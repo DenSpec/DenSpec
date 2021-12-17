@@ -10,7 +10,7 @@
 
 
 ### 🖥️ Web front & back-end developer. 
-### Expert in React and Firebase
+### Fluent in React and Firebase
 
 </div>
 
